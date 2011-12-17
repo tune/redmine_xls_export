@@ -24,4 +24,6 @@ bg:
   label_plugin_xlse_export_format_detailed: "Подробно"
   label_plugin_xlse_export_format_detailed_tooltip: "Избор на опции преди експортиране"
   
+  label_plugin_xlse_date_format: "Формат на датите"
+
   field_history: "история"
